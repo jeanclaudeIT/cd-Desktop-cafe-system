@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+}
+
+.login-box {
+    width: 300px;
+    margin: 100px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    background: #2c3e50;
+    color: white;
+    border: none;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+table {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
